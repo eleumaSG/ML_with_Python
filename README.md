@@ -28,3 +28,12 @@ In order to use this method first you need to:
 - Scale your variables
 - Look at a scatter plot or the data table to estimate the appropriate number of centroids to use for the K parameter value
 - 
+
+# Factor Analysis
+Assumptions:
+- Features are metric
+- Features are continuous or ordinal
+- There is r > 0.3 correlation between the features in your dataset
+- You have > 100 observations, and > 5 observations per feature
+- Sample is homogeneous
+
